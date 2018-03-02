@@ -23,3 +23,7 @@ function appendKitten(){
   newKittens.push("Broom")
   return newKittens
 }
+
+function prependKitten(){
+  
+}
