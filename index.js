@@ -11,5 +11,5 @@ kittens.unshift("Bob")
 }
 
 function destructivelyRemoveLastKitten(){
-  
+  kittens.pop("Garfield")
 }
