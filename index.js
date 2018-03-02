@@ -29,3 +29,7 @@ function prependKitten(){
   newKittens.unshift("Arnold")
   return newKittens
 }
+
+function removeLastKitten(){
+  
+}
